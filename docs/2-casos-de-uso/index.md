@@ -24,8 +24,7 @@
 | 4) O sistema registra que a operação foi bem-sucedida. |
 
 | Fluxo Alternativo (2a): O sistema não encontra as informações do usuário. |
-|---|
-á| 1) O sistema informa que não conseguiu recuperar as informações do usuário e apresenta a opção de cadastrar o usuário. |
+| 1) O sistema informa que não conseguiu recuperar as informações do usuário e apresenta a opção de cadastrar o usuário. |
 | 2) O Usuario preenche o formulário de cadastro ou entra pelo facebook. |
 | 3) O sistema registra os dados do usuário. |
 | 4) Volta ao passo (3) do fluxo principal. |
